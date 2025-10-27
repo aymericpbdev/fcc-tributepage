@@ -1,4 +1,4 @@
-# 2nd project for FreeCodeCamp Certification: Responsive Web Design Certification
+# 2nd project for FreeCodeCamp - Certification: Responsive Web Design 
 ## fcc-tributepage
 ### DEMO: https://aymericpbdev.github.io/fcc-tributepage/
 
