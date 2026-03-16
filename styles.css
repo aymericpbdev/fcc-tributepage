@@ -254,6 +254,17 @@ sup a:focus {
     transition: background-color var(--transition-slow);
 }
 
+.footnote-backlink {
+    margin-left: var(--spacing-xs);
+    font-size: 0.85rem;
+    text-decoration: none;
+    color: var(--color-link);
+}
+
+.footnote-backlink:hover {
+    text-decoration: underline;
+}
+
 a {
     color: var(--color-link);
     text-decoration: underline;
