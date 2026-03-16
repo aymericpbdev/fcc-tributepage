@@ -190,7 +190,7 @@ p {
 
 .anecdotes-section ul {
     padding-left: 0;
-    list-style-position: inside;
+    list-style: none;
 }
 
 .anecdotes-section li {
